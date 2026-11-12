@@ -4,5 +4,6 @@ class Hello{
      System.out.println("Learning Distibuted Version Control System");
      System.out.println("Edited from github account");
      System.out.println("New feature1 added");
+     System.out.println("Learning git fetch command");
 }
 }
